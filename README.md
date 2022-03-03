@@ -1,6 +1,8 @@
 ### hi there! 👋 
 I'm <b> <i> Julia, </i> </b> a beginner self-taught front-end developer 👩🏼‍💻
 
+✨ an ambitious, hard-working and open-minded girl who loves to write - not only code, but also poetry
+
 ✨ currently mastering my React skills
 
 ✨ open to internship/job offers
