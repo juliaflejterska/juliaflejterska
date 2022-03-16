@@ -7,6 +7,9 @@ I'm <b> <i> Julia, </i> </b> a beginner self-taught front-end developer 👩🏼
 
 ✨ open to internship/job offers
 
+[📲 LinkedIn](https://www.linkedin.com/in/julia-flejterska) [📁 Portfolio](https://julia-flejterska.netlify.app/)
+
+
 --------------
 
 <h3 align="left">languages/tools:</h3>
