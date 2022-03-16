@@ -1,5 +1,5 @@
 ### hi there! 👋 
-I'm <b> <i> Julia, </i> </b> a beginner self-taught front-end developer 👩🏼‍💻
+I'm <b> <i> Julia, </i> </b> a beginner self-taught frontend developer 👩🏼‍💻
 
 ✨ an ambitious, hard-working and open-minded girl who loves to write - not only code, but also poetry
 
