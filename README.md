@@ -1,13 +1,8 @@
 ### hi there! 👋 
-I'm <b> <i> Julia, </i> </b> a beginner self-taught frontend developer 👩🏼‍💻
+I'm <b> <i> Julia, </i> </b> a junior self-taught frontend developer 👩🏼‍💻
 
-✨ an ambitious, hard-working and open-minded girl who loves to write - not only code, but also poetry
 
-✨ currently mastering my React skills
-
-✨ open to internship/job offers
-
-[📲 LinkedIn](https://www.linkedin.com/in/julia-flejterska) [📁 Portfolio](https://julia-flejterska.netlify.app/)
+[📲 LinkedIn](https://www.linkedin.com/in/julia-flejterska) 
 
 
 --------------
